@@ -1,2 +1,5 @@
-com\test\backend\App.class
-com\test\config\DataBaseConfig.class
+com\sinergia\backend\App.class
+com\sinergia\config\DBConfig.class
+com\sinergia\dao\userDao.class
+com\sinergia\model\User.class
+com\sinergia\daoImpl\UserDaoImpl.class

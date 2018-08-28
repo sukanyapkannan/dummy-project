@@ -1,3 +1,8 @@
-G:\sukanya\test\backend\src\main\java\com\test\model\User.java
-G:\sukanya\test\backend\src\main\java\com\test\config\DataBaseConfig.java
-G:\sukanya\test\backend\src\main\java\com\test\backend\App.java
+G:\sukanya\dummyProject\backend\src\main\java\com\sinergia\dao\BlogDao.java
+G:\sukanya\dummyProject\backend\src\main\java\com\sinergia\model\Blog.java
+G:\sukanya\dummyProject\backend\src\main\java\com\sinergia\config\DBConfig.java
+G:\sukanya\dummyProject\backend\src\main\java\com\sinergia\model\User.java
+G:\sukanya\dummyProject\backend\src\main\java\com\sinergia\daoImpl\UserDaoImpl.java
+G:\sukanya\dummyProject\backend\src\main\java\com\sinergia\dao\userDao.java
+G:\sukanya\dummyProject\backend\src\main\java\com\sinergia\backend\App.java
+G:\sukanya\dummyProject\backend\src\main\java\com\sinergia\daoImpl\BlogDaoImpl.java
