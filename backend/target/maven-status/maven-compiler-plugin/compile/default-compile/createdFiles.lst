@@ -3,3 +3,4 @@ com\sinergia\config\DBConfig.class
 com\sinergia\dao\userDao.class
 com\sinergia\model\User.class
 com\sinergia\daoImpl\UserDaoImpl.class
+com\sinergia\model\Blog.class

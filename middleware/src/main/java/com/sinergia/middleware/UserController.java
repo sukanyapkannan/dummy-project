@@ -22,7 +22,7 @@ public class UserController
 	userDao udao;
 	
 	@RequestMapping(value="/register",method=RequestMethod.POST)
-	public ResponseEntity<User> register(@RequestBody User user)
+	public ResponseEntity<User> register(@RequestBody User user,HttpSession http)
 	{
 		
 		udao.saveUser(user);
